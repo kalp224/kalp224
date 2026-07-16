@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kalp Prajapati</h1>
-<h3 align="center">A passionate website frontend developer.</h3>
+<h3 align="center"></h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/846fda2b8acabb9a664850a66abcdef875303b0323e624e5cad5bf014f03bfb9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3832382f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
@@ -9,11 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kalpprajapati13" target="blank"><img src="https://img.shields.io/twitter/follow/kalpprajapati13?logo=twitter&style=for-the-badge" alt="kalpprajapati13" /></a> </p>
 
-- 🔭 I’m currently working on **PanelDuty**
-
-- 🌱 I’m currently learning **React JS, Next JS**
-
-- 💬 Ask me about **frontend web-development, ReactJS**
+- 🔭 I’m currently working on **Briefy**
 
 - 📫 How to reach me **kalp.r.prajapati@gmail.com**
 
